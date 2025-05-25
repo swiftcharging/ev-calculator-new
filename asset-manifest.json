@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ev-calculator-new/static/css/main.7a8b8ec3.css",
+    "main.js": "/ev-calculator-new/static/js/main.b428bce8.js",
+    "static/js/453.78db90fa.chunk.js": "/ev-calculator-new/static/js/453.78db90fa.chunk.js",
+    "index.html": "/ev-calculator-new/index.html",
+    "main.7a8b8ec3.css.map": "/ev-calculator-new/static/css/main.7a8b8ec3.css.map",
+    "main.b428bce8.js.map": "/ev-calculator-new/static/js/main.b428bce8.js.map",
+    "453.78db90fa.chunk.js.map": "/ev-calculator-new/static/js/453.78db90fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a8b8ec3.css",
+    "static/js/main.b428bce8.js"
+  ]
+}
